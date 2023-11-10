@@ -58,5 +58,9 @@
 </dl>
 
 <dl>
+    <dd><strong>STS</strong> (Security Token Service)</dd>
+</dl>
+
+<dl>
     <dd><strong>SP</strong> (Service Provider)</dd>
 </dl>
