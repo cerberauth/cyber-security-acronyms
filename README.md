@@ -35,6 +35,10 @@
 </dl>
 
 <dl>
+    <dd><strong>JWT</strong> (JSON Web Token)</dd>
+</dl>
+
+<dl>
     <dd><strong>MFA</strong> (Multifactor Authentication)</dd>
 </dl>
 
@@ -63,4 +67,8 @@
 
 <dl>
     <dd><strong>SP</strong> (Service Provider)</dd>
+</dl>
+
+<dl>
+    <dd><strong>SWT</strong> (Simple Web Tokens)</dd>
 </dl>
