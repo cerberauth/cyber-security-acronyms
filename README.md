@@ -1,79 +1,82 @@
 # Cyber Security Acronyms
 
 <dl>
-    <dd><strong>2FA</strong> (Two-factor Authentication)</dd>
+    <dt><strong>2FA</strong> (Two-factor Authentication)</dt>
 </dl>
 
 <dl>
-    <dd><strong>CIAM</strong> (Customer Identity and Access Management)</dd>
+    <dt><strong>CIAM</strong> (Customer Identity and Access Management)</dt>
 </dl>
 
 <dl>
-    <dd><strong>CIBA</strong> (Client Initiated Backchannel Authentication)</dd>
-    <dt>OpenID Connect Client Initiated Backchannel Authentication Flow is an authentication flow like OpenID Connect. However, unlike OpenID Connect, there is direct Relying Party to OpenID Provider communication without redirects through the user's browser.</dt>
+    <dt><strong>CIBA</strong> (Client Initiated Backchannel Authentication)</dt>
+    <dd>OpenID Connect Client Initiated Backchannel Authentication Flow is an authentication flow like OpenID Connect. However, unlike OpenID Connect, there is direct Relying Party to OpenID Provider communication without redirects through the user's browser.</dd>
 </dl>
 
 <dl>
-    <dd><strong>CVE</strong> (Common Vulnerabilities and Exposures)</dd>
+    <dt><strong>CVE</strong> (Common Vulnerabilities and Exposures)</dt>
 </dl>
 
 <dl>
-    <dd><strong>CVSS</strong> (Common Vulnerability Scoring System)</dd>
+    <dt><strong>CVSS</strong> (Common Vulnerability Scoring System)</dt>
 </dl>
 
 <dl>
-    <dd><strong>FAPI</strong> (Financial-Grade API)</dd>
-    <dt>The Financial-grade API is a highly secured OAuth profile that aims to provide specific implementation guidelines for security and interoperability. The Financial-grade API security profile can be applied to APIs in any market area that requires a higher level of security than provided by standard OAuth or OpenID Connect</dt>
+    <dt><strong>FAPI</strong> (Financial-Grade API)</dt>
+    <dd>The Financial-grade API is a highly secured OAuth profile that aims to provide specific implementation guidelines for security and interoperability. The Financial-grade API security profile can be applied to APIs in any market area that requires a higher level of security than provided by standard OAuth or OpenID Connect</dd>
 </dl>
 
 <dl>
-    <dd><strong>IAM</strong> (Identity and Access Management)</dd>
+    <dt><strong>IAM</strong> (Identity and Access Management)</dt>
 </dl>
 
 <dl>
-    <dd><strong>IdP</strong> (Identity Provider)</dd>
+    <dt><strong>IdP</strong> (Identity Provider)</dt>
 </dl>
 
 <dl>
-    <dd><strong>JWT</strong> (JSON Web Token)</dd>
+    <dt><strong>JWT</strong> (JSON Web Token)</dt>
 </dl>
 
 <dl>
-    <dd><strong>MFA</strong> (Multifactor Authentication)</dd>
+    <dt><strong>MFA</strong> (Multifactor Authentication)</dt>
 </dl>
 
 <dl>
-    <dd><strong>OIDC</strong> (OpenID Connect)</dd>
-    <dt>OpenID Connect is a simple identity layer on top of the OAuth 2.0 [RFC6749] protocol</dt>
+    <dt><strong>OIDC</strong> (OpenID Connect)</dt>
+    <dd>OpenID Connect is a simple identity layer on top of the OAuth 2.0 [RFC6749] protocol</dd>
 </dl>
 
 <dl>
-    <dd><strong>OP</strong> (OpenID Provider)</dd>
-    <dt>OAuth 2.0 Authorization Server that is capable of Authenticating the End-User and providing Claims to a Relying Party about the Authentication event and the End-User.</dt>
+    <dt><strong>OP</strong> (OpenID Provider)</dt>
+    <dd>OAuth 2.0 Authorization Server that is capable of Authenticating the End-User and providing Claims to a Relying Party about the Authentication event and the End-User.</dd>
 </dl>
 
 <dl>
-    <dd><strong>OWASP</strong> (Open Web Application Security Project)</dd>
+    <dt><strong>OWASP</strong> (Open Web Application Security Project)</dt>
 </dl>
 
 <dl>
-    <dd><strong>RP</strong> (Relying Party)</dd>
-    <dt>OAuth 2.0 Client application requiring End-User Authentication and Claims from an OpenID Provider.</dt>
+    <dt><strong>RP</strong> (Relying Party)</dt>
+    <dd>OAuth 2.0 Client application requiring End-User Authentication and Claims from an OpenID Provider.</dd>
 </dl>
 
 <dl>
-    <dd><strong>STS</strong> (Security Token Service)</dd>
+    <dt><strong>STS</strong> (Security Token Service)</dt>
 </dl>
 
 <dl>
-    <dd><strong>SP</strong> (Service Provider)</dd>
+    <dt><strong>SP</strong> (Service Provider)</dt>
 </dl>
 
 <dl>
-    <dd><strong>SWT</strong> (Simple Web Tokens)</dd>
+    <dt><strong>SWT</strong> (Simple Web Tokens)</dt>
 </dl>
 
 <dl>
-    <dd><strong>TOTP</strong> (Time-Based One-Time)</dd>
+    <dt><strong>TOTP</strong> (Time-Based One-Time)</dt>
+    <dd>
+        <a href="https://datatracker.ietf.org/doc/html/rfc6238">RFC6238</a>
+    </dd>
     <dt>A type of authentication mechanism commonly used in two-factor authentication (2FA) systems. TOTP relies on a shared secret key between the user and the authentication system, typically stored on a user's device (like a smartphone). This shared secret is combined with the current time to generate a unique, one-time password that changes periodically (usually every 30 seconds).</dt>
 </dl>
