@@ -72,3 +72,8 @@
 <dl>
     <dd><strong>SWT</strong> (Simple Web Tokens)</dd>
 </dl>
+
+<dl>
+    <dd><strong>TOTP</strong> (Time-Based One-Time)</dd>
+    <dt>A type of authentication mechanism commonly used in two-factor authentication (2FA) systems. TOTP relies on a shared secret key between the user and the authentication system, typically stored on a user's device (like a smartphone). This shared secret is combined with the current time to generate a unique, one-time password that changes periodically (usually every 30 seconds).</dt>
+</dl>
