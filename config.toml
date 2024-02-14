@@ -1,0 +1,5 @@
+baseURL = 'https://acronyms.cerberauth.com'
+languageCode = 'en'
+title = 'Cyber Security Acronyms'
+
+[Taxonomies]
