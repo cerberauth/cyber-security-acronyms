@@ -1,5 +1,9 @@
 # Cyber Security Acronyms
 
+Welcome to the this Cyber Security Acronyms Glossary, a resource for deciphering the myriad of acronyms and abbreviations commonly encountered in cybersecurity.
+
+This glossary aims to provide concise explanations for a wide range of acronyms spanning various facets of cybersecurity, including network security, cryptography, malware, and more.
+
 **2FA** (Two-factor Authentication)
 
 **CIAM** (Customer Identity and Access Management)
