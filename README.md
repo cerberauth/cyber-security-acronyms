@@ -21,6 +21,9 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **FAPI** (Financial-Grade API)
 : The Financial-grade API is a highly secured OAuth profile that aims to provide specific implementation guidelines for security and interoperability. The Financial-grade API security profile can be applied to APIs in any market area that requires a higher level of security than provided by standard OAuth or OpenID Connect.
 
+**FIDO** (Fast IDentity Online)
+: Set of open standards for secure authentication, aiming to reduce reliance on passwords by enabling users to authenticate to online services using simpler and more secure methods such as biometrics or hardware tokens.
+
 **IAM** (Identity and Access Management)
 
 **IdP** (Identity Provider)
@@ -49,3 +52,7 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **TOTP** (Time-Based One-Time)
 [RFC6238](https://datatracker.ietf.org/doc/html/rfc6238)
 : A type of authentication mechanism commonly used in two-factor authentication (2FA) systems. TOTP relies on a shared secret key between the user and the authentication system, typically stored on a user's device (like a smartphone). This shared secret is combined with the current time to generate a unique, one-time password that changes periodically (usually every 30 seconds).
+
+**U2F** (Universal 2nd Factor)
+[FIDO Universal 2nd Factor Specs](https://fidoalliance.org/specs/u2f-specs-master/fido-u2f-overview.html)
+: Specific authentication protocol within the FIDO framework, providing an additional layer of security by requiring a physical token, typically a USB or NFC device, in addition to passwords or other authentication methods.
