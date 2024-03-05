@@ -6,6 +6,15 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 
 **2FA** (Two-factor Authentication)
 
+**ABAC** (Attribute-Based Access Control)
+: A type of access control that uses attributes to determine access rights. An access control decision is based on the attributes of the user, the resource to be accessed, and the current environment.
+
+**ACL** (Access Control List)
+: A list of permissions attached to an object that specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.
+
+**AD** (Active Directory)
+: A directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. Initially, Active Directory was only in charge of centralized domain management. However, Active Directory became an umbrella title for a broad range of directory-based identity-related services.
+
 **CIAM** (Customer Identity and Access Management)
 
 **CIBA** (Client Initiated Backchannel Authentication)
@@ -27,10 +36,21 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **IAM** (Identity and Access Management)
 
 **IdP** (Identity Provider)
+: A trusted entity that provides authentication services to users. It is a server that creates, maintains, and manages identity information for principals while providing authentication services to relying applications within a federation or distributed network.
+
+**IWA** (Integrated Windows Authentication)
+: A term associated with Microsoft products that refers to the SPNEGO, Kerberos, and NTLMSSP authentication protocols with respect to SSPI functionality introduced with Microsoft Windows 2000 and included with later Windows NT-based operating systems. Integrated Windows Authentication uses the security features of Windows clients and servers to provide secure, single sign-on to applications and websites.
 
 **JWT** (JSON Web Token)
 
+**LCM** (LifeCycle Management)
+: The process of managing the entire lifecycle of digital certificates or identities. For certificates it includes issuance, renewal, revocation, and expiration. For identities it includes creation, provisioning those to applications, modification, and deletion.
+
+**LDAP** (Lightweight Directory Access Protocol)
+: A protocol for accessing and maintaining distributed directory information services over an IP network. It is a set of protocols for accessing information directories. These directories can contain a wide variety of information, such as the email addresses of individuals in an organization and the public keys of computer servers.
+
 **MFA** (Multifactor Authentication)
+: A security system that requires more than one method of authentication from independent categories of credentials to verify the user's identity for a login or other transaction.
 
 **OIDC** (OpenID Connect)
 : OpenID Connect is a simple identity layer on top of the OAuth 2.0 \[RFC6749\] protocol.
@@ -43,9 +63,19 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **RP** (Relying Party)
 : OAuth 2.0 Client application requiring End-User Authentication and Claims from an OpenID Provider.
 
-**STS** (Security Token Service)
+**SAML** (Security Assertion Markup Language)
+: An open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is an XML-based markup language for security assertions (statements that service providers use to make access-control decisions).
+
+**SCIM** (System for Cross-domain Identity Management)
+: A standard for automating the exchange of user identity information between identity domains, or IT systems. It aims to simplify user provisioning and management in the cloud by defining a schema for representing users and groups and a RESTful API for managing these objects. The protocol is designed to be simple and extensible, and it is based on standard web technologies such as HTTP and JSON.
 
 **SP** (Service Provider)
+: An entity that provides services to one or more end-users. In the context of SAML, a service provider is a system entity that provides services to users. These services can be anything from a simple web application to a full-fledged enterprise application.
+
+**SSO** (Single Sign-On)
+: A session and user authentication service that permits a user to use one set of login credentials (e.g., name and password) to access multiple applications.
+
+**STS** (Security Token Service)
 
 **SWT** (Simple Web Tokens)
 
