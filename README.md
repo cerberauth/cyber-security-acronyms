@@ -60,6 +60,11 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 
 **OWASP** (Open Web Application Security Project)
 
+**ROP** (Resource Owner Password)
+**ROPC** (Resource Owner Password Credentials)
+**ROPF** (Resource Owner Password Flow)
+: A way to exchange a user's credentials for an access token. This OAuth 2.0 flow is suitable for clients capable of obtaining the resource owner's credentials (username and password, typically using an interactive form).
+
 **RP** (Relying Party)
 : OAuth 2.0 Client application requiring End-User Authentication and Claims from an OpenID Provider.
 
