@@ -91,3 +91,6 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **U2F** (Universal 2nd Factor)
 [FIDO Universal 2nd Factor Specs](https://fidoalliance.org/specs/u2f-specs-master/fido-u2f-overview.html)
 : Specific authentication protocol within the FIDO framework, providing an additional layer of security by requiring a physical token, typically a USB or NFC device, in addition to passwords or other authentication methods.
+
+**WAAD** (Windows Azure Active Directory)
+: A cloud-based identity and access management service from Microsoft. It basically an Active Directory deployed and operated on Microsoft Azure.
