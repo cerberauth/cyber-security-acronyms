@@ -21,8 +21,16 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 : OpenID Connect Client Initiated Backchannel Authentication Flow is an authentication flow like OpenID Connect. However, unlike OpenID Connect, there is direct Relying Party to OpenID Provider communication without redirects through the user's browser.
 
 **CVE** (Common Vulnerabilities and Exposures)
+: A list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.
 
 **CVSS** (Common Vulnerability Scoring System)
+: A free and open industry standard for assessing the severity of computer system security vulnerabilities. CVSS attempts to assign severity scores to vulnerabilities, allowing responders to prioritize responses and resources according to the threat.
+
+**CWE** (Common Weakness Enumeration)
+: A community-developed list of common software and hardware weakness types that have security ramifications.
+
+**DAST** (Dynamic Application Security Testing)
+: A type of security testing that examines an application while it is running to identify security vulnerabilities.
 
 **DPoP** (Distributed Proof of Possession)
 : It's a security mechanism primarily used in OAuth 2.0 and OpenID Connect protocols to enhance the security of access tokens. The DPoP mechanism works by having the client sign a unique token, called a DPoP proof, using a private key associated with the access token. When making a request to a resource server, the client includes this DPoP proof along with the access token. The resource server can then verify the DPoP proof using the public key associated with the access token, ensuring that the client is in possession of the key and thus authorized to use the token.
@@ -70,6 +78,9 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 
 **SAML** (Security Assertion Markup Language)
 : An open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. SAML is an XML-based markup language for security assertions (statements that service providers use to make access-control decisions).
+
+**SAST** (Static Application Security Testing)
+: A type of security testing that relies on examining the source code of an application to identify security vulnerabilities.
 
 **SCIM** (System for Cross-domain Identity Management)
 : A standard for automating the exchange of user identity information between identity domains, or IT systems. It aims to simplify user provisioning and management in the cloud by defining a schema for representing users and groups and a RESTful API for managing these objects. The protocol is designed to be simple and extensible, and it is based on standard web technologies such as HTTP and JSON.
