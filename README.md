@@ -94,6 +94,7 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **STS** (Security Token Service)
 
 **SWT** (Simple Web Tokens)
+: A token format that is used to pass claims between a client and a web service. SWT is designed to be easily parsed and validated by web services, making it a lightweight and efficient token format for use in web-based scenarios.
 
 **TOTP** (Time-Based One-Time)
 [RFC6238](https://datatracker.ietf.org/doc/html/rfc6238)
