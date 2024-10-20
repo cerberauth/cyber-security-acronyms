@@ -35,6 +35,8 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **DDoS** (Distributed Denial of Service)
 : A cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.
 
+**DLP** (Data Loss Prevention)
+
 **DPoP** (Distributed Proof of Possession)
 : It's a security mechanism primarily used in OAuth 2.0 and OpenID Connect protocols to enhance the security of access tokens. The DPoP mechanism works by having the client sign a unique token, called a DPoP proof, using a private key associated with the access token. When making a request to a resource server, the client includes this DPoP proof along with the access token. The resource server can then verify the DPoP proof using the public key associated with the access token, ensuring that the client is in possession of the key and thus authorized to use the token.
 
