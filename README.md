@@ -68,6 +68,9 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 
 **OWASP** (Open Web Application Security Project)
 
+**PII** (Personally Identifiable Information)
+: Information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
+
 **ROP** (Resource Owner Password)
 **ROPC** (Resource Owner Password Credentials)
 **ROPF** (Resource Owner Password Flow)
