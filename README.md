@@ -49,6 +49,9 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **FIDO** (Fast IDentity Online)
 : Set of open standards for secure authentication, aiming to reduce reliance on passwords by enabling users to authenticate to online services using simpler and more secure methods such as biometrics or hardware tokens.
 
+**HRD** (Home Realm Discovery)
+: A mechanism to identify the realm or domain that a user is logged into. It is sometimes from email address or username and can be used to determine the identity provider.
+
 **IAM** (Identity and Access Management)
 
 **IdP** (Identity Provider)
