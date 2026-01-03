@@ -82,6 +82,9 @@ This glossary aims to provide concise explanations for a wide range of acronyms 
 **PII** (Personally Identifiable Information)
 : Information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
+**PoLP** (Principle of Least Privilege)
+: A security principle that advocates that access control should be granted to the least-privileged user or role that is required to perform the required action.
+
 **ROP** (Resource Owner Password)
 **ROPC** (Resource Owner Password Credentials)
 **ROPF** (Resource Owner Password Flow)
